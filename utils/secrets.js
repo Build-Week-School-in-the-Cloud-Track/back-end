@@ -1,3 +1,3 @@
 module.exports = {
-    secret_JWT: 'we should keep this a secretmaybe'
+    secret_JWT: 'we should keep this a secret!'
   }
